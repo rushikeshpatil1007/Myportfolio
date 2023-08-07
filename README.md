@@ -4,7 +4,7 @@ This is a simple portfolio website template built using React and Tailwind CSS. 
 
 ## Demo
 
-You can see the live demo of the portfolio website [here](https://your-portfolio-website-url.com).
+You can see the live demo of the portfolio website https://portfolio-rrp.netlify.app/.
 
 ## Features
 
@@ -32,6 +32,7 @@ To run the portfolio website locally on your machine, follow these steps:
 
 ```
 git clone
+gh repo clone rushikeshpatil1007/Myportfolio
 ```
 
 3. Navigate to the project directory:
